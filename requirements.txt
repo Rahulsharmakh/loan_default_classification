@@ -226,4 +226,4 @@ xhtml2pdf==0.2.15
 yfinance==0.2.52
 zopfli==0.2.3
 gdown
-git commit -m "Initial commit of loan prediction Flask app"
+
